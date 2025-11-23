@@ -1,4 +1,4 @@
-# inspirational-Quote-Generator
+# Inspirational-Quote-Generator
 
 https://blog.innertune.com/motivational-sports-quotes/
 
